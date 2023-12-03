@@ -1,4 +1,4 @@
-La version secuencial de la tarea consta de 3 imagenes y el codigo fuente llamado "secuencial".
+La version secuencial de la tarea consta de 6 imagenes y el codigo fuente llamado "secuencial".
 Para poder compilar el programa se utiliza el software CMake, para ello siga los siguientes pasos:
 
 1 Abra el directorio donde esta el programa en su version secuencial con la terminal.
